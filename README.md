@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pehli1
 - 👀 I’m interested in designing websites and creating Artifical intelligence 
-- 🌱 I’m currently learning Javascript, React and Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me? easy ! -mertp34@gmail.com
 - ▶️ Goal: Making my personal website and Creating an AI
 
